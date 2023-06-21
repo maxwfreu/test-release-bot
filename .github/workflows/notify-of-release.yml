@@ -18,3 +18,9 @@ jobs:
           MESSAGE_DESCRIPTION: New Release of the python-client
           MESSAGE_URL: https://github.com/steamship-core/python-client/releases
           MESSAGE_COLOR: 5814783
+          AUTHOR_NAME: null;
+          AUTHOR_URL: null;
+          AUTHOR_AVATAR: null;
+          FOOTER_TEXT: null;
+          FOOTER_URL: null;
+          IMAGE: null;
