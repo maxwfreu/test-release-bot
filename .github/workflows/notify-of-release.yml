@@ -12,5 +12,6 @@ jobs:
       - name: Sending message
         uses: nhevia/discord-styled-releases@main
         with:
-          webhook_id: 1121127603496034415
-          webhook_token: f-C87wJCJRtMFaxYrUKdh_06-mQXRkcInCgLL1ztVZsKjzNWyfenFkUWjVefXB82I6wA
+          webhook_id: "1121127603496034415"
+          webhook_token: "f-C87wJCJRtMFaxYrUKdh_06-mQXRkcInCgLL1ztVZsKjzNWyfenFkUWjVefXB82I6wA"
+
